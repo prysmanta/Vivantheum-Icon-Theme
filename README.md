@@ -1,4 +1,4 @@
-<img src="https://github.com/prysmanta/Vivantheum-Icon-Theme/preview02.png" alt="Logo" align="right" /> Vivantheum Icon Theme
+<img src="https://github.com/prysmanta/Vivantheum-Icon-Theme/blob/master/preview02.png" alt="Logo" align="right" /> Vivantheum Icon Theme
 ======
 
 The elegant and compact theme for the Prysma Desktop and for the rest of the community.

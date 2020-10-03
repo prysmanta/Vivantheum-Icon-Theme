@@ -12,7 +12,7 @@ fi
 
 SRC_DIR=$(cd $(dirname $0) && pwd)
 
-THEME_NAME=WhiteSur
+THEME_NAME=Vivantheum
 COLOR_VARIANTS=('' '-dark')
 
 usage() {

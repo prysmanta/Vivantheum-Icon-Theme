@@ -1,6 +1,6 @@
 [Icon Theme]
-Name=WhiteSur
-Comment=MacOSX style icon theme for linux.
+Name=Vivantheum
+Comment=The elegant and compact icon theme for the Prysma Desktop.
 Inherits=Numix-Circle-Light,Adwaita,hicolor
 Example=folder
 

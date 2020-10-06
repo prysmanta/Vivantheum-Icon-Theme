@@ -23,12 +23,28 @@ To access advanced options, type:
 |-n, --name           | Specify theme name (Default: Vivantheum)|
 |-h, --help           | Show this help|
 
-## Requirment
-You can use this with:
+## Extras
+The Vivantheum theme is optimized for all kinds of themes and distributions, and it looks better when combined with:
 
-### GTK theme
+### GTK Theme
 
-Vivantheum GTK Theme: [none]
+Adwaita (Gnome Default)
+
+Yaru (Ubuntu Default)
+
+Vivantheum GTK Theme: https://github.com/prysmanta/Vivantheum-Gtk-Theme
+
+Whitesur GTK Theme: https://github.com/vinceliuice/WhiteSur-gtk-theme
+
+### KDE Theme
+
+Breeze (KDE Default)
+
+Breath 2 (Manjaro Default)
+
+Qogir KDE Theme: https://github.com/vinceliuice/Qogir-theme
+
+Whitesur KDE Theme: https://github.com/vinceliuice/WhiteSur-kde
 
 ## Preview
 ![1](preview.png)

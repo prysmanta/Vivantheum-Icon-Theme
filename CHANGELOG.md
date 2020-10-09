@@ -6,19 +6,27 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 ### Undergoing
-- All of the icons currently undergoing an overhaul to look 3D and native to the Prysma Desktop
+- All of the icons currently undergoing an overhaul to look native to the Prysma Desktop
 - Fixing several icons to be more optimized
 - Deprecated Numix-circle as a fallback
 
-## [0.0.2] - 2020-10-10
+## [0.0.3] - 2020-10-10
 ### Added
--
+- 
 
 ### Fixed
--
-	
-Fixed optimization faults with Eye of Gnome
-	
+- 
+
+## [0.0.2] - 2020-10-10
+### Added
+- Bootstrap Studio
+
+### Fixed
+- File Manager
+- Kdenlive
+- App Image Launcher
+- Cheese
+- Camera
 
 ## [0.0.1] - 2020-10-6
 ### Added
@@ -34,6 +42,5 @@ Fixed optimization faults with Eye of Gnome
 - Added Huion Pen Driver
 
 ### Fixed
-- Eye of Gnome icon now uses the newer
-- Calculator now uses
-- Branding of "Whitesur" completely removed from the repository
+- Eye of Gnome
+- Calculator

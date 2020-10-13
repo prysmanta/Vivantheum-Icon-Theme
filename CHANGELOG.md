@@ -27,6 +27,17 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - App Image Launcher
 - Cheese
 - Camera
+- Atom
+- Baidu NetDisk
+- Brackets
+- Desktop Environment Gnome
+- Desktop Environment KDE
+- Distributor Logo Manjaro
+- Distributor Logo Endeavour
+- Electron
+- Opera Beta
+- QQ
+- Microsoft Teams
 
 ## [0.0.1] - 2020-10-6
 ### Added
